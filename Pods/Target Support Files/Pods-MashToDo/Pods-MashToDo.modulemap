@@ -1,0 +1,6 @@
+framework module Pods_MashToDo {
+  umbrella header "Pods-MashToDo-umbrella.h"
+
+  export *
+  module * { export * }
+}
