@@ -7,4 +7,6 @@ target 'MashToDo' do
 
   # Pods for MashToDo
 pod 'RealmSwift'
+pod 'SwipeCellKit'
+pod 'ChameleonFramework/Swift', :git => 'https://github.com/ViccAlexander/Chameleon.git'
 end
